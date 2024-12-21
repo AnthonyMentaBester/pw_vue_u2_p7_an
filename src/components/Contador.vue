@@ -22,6 +22,7 @@
     <!-- quiero mostrar el mensaje desde el padre -->
     <h1 >FELIZ NAVIDAD</h1>
   </div>
+
 </template>
 
 <script>
@@ -89,7 +90,6 @@ export default {
         arreglo: Array,
         fecha: Date,
         objetoPersona: Object,
-
     }
     
 };
